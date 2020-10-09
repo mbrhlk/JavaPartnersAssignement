@@ -6,6 +6,7 @@ public class Assignment {
         String yesOrNot = "y";
         // int playCnt = 0;
 
+        System.out.println("This is a math game, you have to answer the questions correctly to win. You started it with 3 lives. Good Luck!");
         while(yesOrNot == "y"){
             System.out.println("Hello and welcome to the two player math game, would you like to play? (y/n)");
             Scanner input = new Scanner(System.in);
