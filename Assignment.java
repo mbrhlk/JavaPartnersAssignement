@@ -1,3 +1,5 @@
+// Marina Braholka and Chiori Suzuki
+
 import java.lang.Math;
 import java.util.Scanner;
 
